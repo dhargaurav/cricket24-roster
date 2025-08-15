@@ -1,0 +1,185 @@
+id,name,country,iplTeam,formats,arm,type,paceKph,strengths,strategies
+jasprit_bumrah,Jasprit Bumrah,India,,ODI|T20I|Test,R,pace,140–150,Yorker specialist|Hard 4th stump|Wobble seam,New ball: hard length then fuller nip-backer. Death: yorker > bouncer > wide yorker; bowl to one side.
+mohammed_shami,Mohammed Shami,India,,ODI|Test,R,seam,140–145,Seam movement|Hit the deck|Reverse,Test/ODI: top of off with wobble seam; attack pads fuller after bumper.
+mohammed_siraj,Mohammed Siraj,India,,ODI|T20I|Test,R,seam,135–145,Wobble seam|Channel pressure|Burst bumper,4th-stump pressure; surprise bumper; fuller nip-backer.
+ravichandran_ashwin,Ravichandran Ashwin,India,,Test,R,offspin,—,Drift & dip|Carrom ball|Top of off,Outside-off channel to RHB; to LHB target pad with drift.
+kuldeep_yadav,Kuldeep Yadav,India,,ODI|T20I|Test,L,leftarm-spin,—,Wrong’un|Drift & dip|Top-spinner,Middle: stumps attack; vary pace; bowl to long boundary.
+bhuvneshwar_kumar,Bhuvneshwar Kumar,India,,ODI|T20I,R,swing,125–135,New-ball outswing|Knuckleball|Control,PP: full outside off; later knuckle/slow; wide yorker late.
+arshdeep_singh,Arshdeep Singh,India,,ODI|T20I,L,leftarm-pace,130–135,Angle across|Wide yorker|Change-ups,PP: angle across to 4th stump; death wide yorker and cutter.
+ravi_bishnoi,Ravi Bishnoi,India,,T20I,R,legspin,—,Googly heavy|Flatter pace|Control,Middle: googly to RHB; back-of-length to force miscues.
+deepak_chahar,Deepak Chahar,India,CSK,T20I|ODI,R,swing,130–135,PP outswing|Full attacking length|Knuckleball,PP: two full outswingers then 4th stump. Death: knuckle/slow wide.
+tushar_deshpande,Tushar Deshpande,India,CSK,T20,R,pace,135–140,Hard length|Back-of-length bouncer|Yorker attempts,Middle: hard length 4th stump; bouncer; finish with yorker.
+matheesha_pathirana,Matheesha Pathirana,Sri Lanka,CSK,T20I,R,pace,140–150,Slingy yorker|Change-ups|Bouncer,Death: at-heel yorker; slow bouncer; wide yorker.
+maheesh_theekshana,Maheesh Theekshana,Sri Lanka,CSK,ODI|T20I,R,offspin,—,Carrom ball|Powerplay spin|Drift,PP: top of off/5th stump carrom; protect off-side ring.
+ravindra_jadeja,Ravindra Jadeja,India,CSK,ODI|T20I|Test,L,leftarm-spin,—,Accuracy|Darts at pads|Change of pace,Middle: attack pads; ring field off-side.
+mustafizur_rahman,Mustafizur Rahman,Bangladesh,CSK,ODI|T20I,L,leftarm-pace,130–135,Cutter|Angle across|Wide yorker,Middle/Death: cutters into pitch; wide yorker to big side.
+mukesh_choudhary,Mukesh Choudhary,India,CSK,T20,L,leftarm-pace,130–135,Angle across|Full swing|Hard length,PP: full outswing then 4th stump.
+jasprit_bumrah_mi,Jasprit Bumrah,India,MI,ODI|T20I|Test,R,pace,140–150,Yorker|Bouncer|Wide yorker,Death pattern triangle; one-side field.
+akash_madhwal,Akash Madhwal,India,MI,T20,R,pace,135–140,Yorker|Hard length|Skid,Death: aim base of off; occasional slow bouncer.
+gerald_coetzee,Gerald Coetzee,South Africa,MI,ODI|T20I|Test,R,pace,145–150,Heavy ball|Bouncer|Yorker,Middle: pound hard length; death mix yorker/pace-off.
+nuwan_thushara,Nuwan Thushara,Sri Lanka,MI,T20I,R,pace,135–140,Slingy angle|Wide yorker|Change-ups,"Death: wide yorker, slow bouncer; PP: full outside off."
+piyush_chawla,Piyush Chawla,India,MI,ODI|T20I,R,legspin,—,Leg-break|Googly|Flight,Middle: good length; wrong’un to RHB with deep leg-side.
+mohammad_nabi,Mohammad Nabi,Afghanistan,MI,ODI|T20I,R,offspin,—,Arm ball|Flat trajectory|Control,Middle: attack pads; ring off-side.
+mohammed_siraj_rcb,Mohammed Siraj,India,RCB,ODI|T20I|Test,R,seam,135–145,Wobble seam|Channel control|Burst bumper,PP: 4th stump; bumper; fuller nip-backer.
+reece_topley,Reece Topley,England,RCB,ODI|T20I,L,leftarm-pace,130–140,Angle across|Full swing|Back-of-length,PP: across RHB; death wide yorker/cutters.
+yash_dayal,Yash Dayal,India,RCB,T20,L,leftarm-pace,130–135,Angle across|Back-of-length|Change-ups,Middle: cutters into pitch; wide yorker late.
+karn_sharma,Karn Sharma,India,RCB,T20,R,legspin,—,Leg-break|Googly|Flatter trajectory,Middle: back-of-length; wrong’un to cramp slog-sweep.
+vijaykumar_vyshak,Vijaykumar Vyshak,India,RCB,T20,R,pace,130–135,Hard length|Slower ball|Yorker attempts,Middle: hard length; death pace-off then yorker.
+himanshu_sharma,Himanshu Sharma,India,RCB,T20,R,legspin,—,Leg-break|Wrong’un|Flat,Middle: into pitch; protect long boundary.
+mitchell_starc_kkr,Mitchell Starc,Australia,KKR,ODI|T20I|Test,L,leftarm-pace,145–155,Express yorker|Late swing|Hostile bouncer,PP: full at stumps/4th stump. Death: yorker-bouncer-wide yorker.
+sunil_narine,Sunil Narine,West Indies,KKR,ODI|T20I,R,offspin,—,Carrom ball|Skiddy off-break|PP spin,PP/Middle: attack top of off; mix carrom/angle to pads.
+varun_chakravarthy,Varun Chakravarthy,India,KKR,T20,R,legspin,—,Mystery variations|Flatter pace|Control,Middle: into the pitch; vary release; protect long boundary.
+harshit_rana,Harshit Rana,India,KKR,T20,R,pace,135–140,Hard length|Bouncer|Change-ups,Middle: hard 4th stump; slow bouncer; yorker end.
+vaibhav_arora,Vaibhav Arora,India,KKR,T20,R,swing,130–135,New-ball outswing|Angle|Control,PP: full outside off; later cutters.
+suyash_sharma,Suyash Sharma,India,KKR,T20,R,legspin,—,Leg-break|Wrong’un|Flight,Middle: toss up; wrong’un to RHB.
+trent_boult_rr,Trent Boult,New Zealand,RR,ODI|T20I,L,leftarm-pace,135–145,PP inswing|Full length|Bouncer surprise,PP: two full inswingers then 4th stump; around-the-wicket to trap LBW.
+yuzvendra_chahal,Yuzvendra Chahal,India,RR,ODI|T20I,R,legspin,—,Googly to RHB|Top-spinner dip|Flight,Middle: pads attack; wrong’un with ring; tempt big hit to long boundary.
+ravichandran_ashwin_rr,Ravichandran Ashwin,India,RR,ODI|T20I|Test,R,offspin,—,Drift & dip|Carrom ball|Field craft,Middle: off-stump channel; carrom to beat outside edge.
+sandeep_sharma,Sandeep Sharma,India,RR,T20,R,swing,125–135,New-ball outswing|Knuckleball|Control,PP: full outside off; knuckle late.
+avesh_khan,Avesh Khan,India,RR,T20I,R,pace,135–145,Hard length|Bouncer|Wide yorker,Middle/Death: back-of-length; wide yorker to big side.
+kuldeep_sen,Kuldeep Sen,India,RR,T20,R,pace,140–145,Hit deck|Bouncer|Yorker attempt,Middle: heavy length; death: change-ups.
+mohit_sharma,Mohit Sharma,India,GT,T20,R,pace,130–135,Slower ball|Cutter|Wide yorker,Middle/Death: pace-off and wide angles.
+rashid_khan_gt,Rashid Khan,Afghanistan,GT,ODI|T20I,R,legspin,—,Fast leg-break|Googly|Back-of-length skid,Middle: stumps attack; mix wrong’un; bowl to long boundary.
+noor_ahmad,Noor Ahmad,Afghanistan,GT,T20I,L,leftarm-spin,—,Wrong’un|Quicker one|Angle,Middle: hit stumps; vary pace; protect midwicket/long-on.
+umesh_yadav_gt,Umesh Yadav,India,GT,Test|T20,R,pace,135–145,Hit deck|Hard length|Straight fuller,Middle: heavy length; occasional fuller at stumps.
+spencer_johnson,Spencer Johnson,Australia,GT,T20I,L,leftarm-pace,135–145,Angle across|Back-of-length|Change-ups,Middle: back-of-length; cutters into pitch.
+r_sai_kishore,R Sai Kishore,India,GT,T20,L,leftarm-spin,—,Accuracy|Darts|Pads attack,Middle: attack pads; ring field off-side.
+mohsin_khan,Mohsin Khan,India,LSG,T20,L,leftarm-pace,135–140,Angle across|Bounce|Back-of-length,PP: angle across; later cutters.
+yash_thakur,Yash Thakur,India,LSG,T20,R,pace,130–135,Hard length|Slower ball|Yorker attempt,Middle: hard length; death: pace-off then yorker.
+naveen_ul_haq,Naveen-ul-Haq,Afghanistan,LSG,T20I,R,pace,130–135,Change-ups|Cutter|Wide yorker,Middle/Death: pace-off; wide yorker to long boundary.
+ravi_bishnoi_lsg,Ravi Bishnoi,India,LSG,T20I,R,legspin,—,Googly heavy|Flatter pace|Control,Middle: googly to RHB with ring.
+krunal_pandya,Krunal Pandya,India,LSG,ODI|T20I,L,leftarm-spin,—,Angles to pads|Darts|Change of pace,Middle: attack pads; invite inside-out to sweeper.
+mayank_yadav,Mayank Yadav,India,LSG,T20,R,pace,145–150,Serious heat|Hard length|Back-of-length,Middle: pound length into body; surprise fuller.
+pat_cummins_srh,Pat Cummins,Australia,SRH,ODI|T20I|Test,R,seam,140–150,Wobble seam|Hard length|Bouncer,Middle: hard length 4th stump; fuller for edge ball.
+bhuvneshwar_kumar_srh,Bhuvneshwar Kumar,India,SRH,ODI|T20I,R,swing,125–135,New-ball outswing|Knuckleball|Control,PP: full outside off; knuckle late; wide yorker.
+t_natarajan,T. Natarajan,India,SRH,T20I,L,leftarm-pace,130–135,Yorker specialist|Angle across|Cutter,Death: yorker focus; cutter; field square leg back.
+umran_malik,Umran Malik,India,SRH,T20I,R,pace,150+,Extreme pace|Bouncer|Hard length,Middle: back-of-length heat; surprise fuller straight.
+jaydev_unadkat,Jaydev Unadkat,India,SRH,T20,L,leftarm-pace,125–135,Angle|Cutter|Wide yorker,Middle/Death: cutters into pitch; wide yorker.
+mayank_markande,Mayank Markande,India,SRH,T20,R,legspin,—,Leg-break|Wrong’un|Flight,Middle: good length; wrong’un to RHB.
+kuldeep_yadav_dc,Kuldeep Yadav,India,DC,ODI|T20I|Test,L,leftarm-spin,—,Wrong’un|Drift & dip|Top-spinner,Middle: attack stumps; vary pace; bowl to long boundary.
+anrich_nortje_dc,Anrich Nortje,South Africa,DC,ODI|T20I|Test,R,pace,145–155,Serious heat|Hard length|Back-of-length seam,Middle: heavy length; fuller nip-backer.
+khaleel_ahmed,Khaleel Ahmed,India,DC,ODI|T20I,L,leftarm-pace,130–135,Angle across|Back-of-length|Wide yorker,PP: across RHB; later cutters; wide yorker.
+ishant_sharma,Ishant Sharma,India,DC,Test|T20,R,seam,130–135,Hit deck|Hard length|Occasional swing,Middle: hard length; surprise bouncer then fuller.
+mukesh_kumar_dc,Mukesh Kumar,India,DC,Test|T20I,R,seam,130–135,Channel control|Hit the deck|Accuracy,Middle: top of off; cutters to big side.
+axar_patel,Axar Patel,India,DC,ODI|T20I|Test,L,leftarm-spin,—,Accuracy|Skid|Arm ball,Middle: top of off to RHB; arm ball at pads.
+arshdeep_singh_pbks,Arshdeep Singh,India,PBKS,ODI|T20I,L,leftarm-pace,130–135,Angle across|Wide yorker|Change-ups,PP: angle across; death wide yorker and cutter.
+kagiso_rabada_pbks,Kagiso Rabada,South Africa,PBKS,ODI|T20I|Test,R,pace,140–150,Hit deck|Yorker|Bouncer,Middle: hard length 4th stump; finish with yorker/bouncer mix.
+harshal_patel,Harshal Patel,India,PBKS,T20I,R,pace,125–135,Slower ball|Cutter|Wide yorker,Death: pace-off wide; surprise at-heel yorker.
+rahul_chahar,Rahul Chahar,India,PBKS,ODI|T20I,R,legspin,—,Wrong’un|Top-spinner|Flatter pace,Middle: attack stumps; protect long-on.
+harpreet_brar,Harpreet Brar,India,PBKS,T20,L,leftarm-spin,—,Darts|Angles|Hit pads,Middle: pads attack; protect cover ring.
+nathan_ellis,Nathan Ellis,Australia,PBKS,T20I,R,pace,130–135,Change-ups|Deception|Yorker,Death: slow-ball/knuckle; yorker end.
+sam_curran,Sam Curran,England,PBKS,ODI|T20I,L,leftarm-pace,130–135,Angle across|Back-of-length|Wide yorker,Middle: back-of-length; death wide yorker.
+rishi_dhawan,Rishi Dhawan,India,PBKS,T20,R,seam,125–130,Hard length|Back-of-length|Change-ups,Middle: wicket-to-wicket; slower-bouncer.
+javagal_srinath,Javagal Srinath,India,,ODI|Test,R,seam,135–145,Hit-the-deck 4th stump|Heavy ball|Cross-seam variation,New ball: hard length top of off; occasional fuller to hit pads. Middle: back-of-length into the pitch; bouncer to push back then fuller for edge.
+zaheer_khan,Zaheer Khan,India,,ODI|Test,L,swing,130–140,Reverse swing|Wobble seam|Knuckle/slower ball,Early: away-shape then nip-backer. Old ball: reverse into pads; surprise slower ball to big side.
+ajit_agarkar,Ajit Agarkar,India,,ODI|Test,R,seam,135–140,Skiddy seamers|Deceptive bouncer|Handy outswinger,Powerplay: 4th-stump with outswinger threat. Death: hard length and at-heel yorkers.
+ashish_nehra,Ashish Nehra,India,,ODI|T20I,L,leftarm-pace,130–140,New-ball swing|Full attacking length|Clever change-ups,"Early: full inswing to RHB, away to LHB. Later: back-of-length with cutters into the pitch."
+anil_kumble,Anil Kumble,India,,ODI|Test,R,legspin,—,Top-spinner skid|Straight one|Relentless accuracy,Attack stumps with top-spinners; vary pace/bounce for LBW/bat-pad; keep men close in.
+kapil_dev,Kapil Dev,India,,ODI|Test,R,seam,130–140,Outswinger|Hit the deck|Old-ball reverse,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+harbhajan_singh,Harbhajan Singh,India,MI,ODI|T20I|Test,R,offspin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+irfan_pathan,Irfan Pathan,India,KXIP,ODI|T20I|Test,L,seam,130–140,New-ball swing|Left-arm angle|Fuller length,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+amit_mishra,Amit Mishra,India,DC,ODI|T20I,R,legspin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+pragyan_ojha,Pragyan Ojha,India,,ODI|Test,L,leftarm-spin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+shardul_thakur,Shardul Thakur,India,KKR,ODI|T20I|Test,R,seam,130–140,Cross-seam|Change-ups|Hard length,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+t_natarajan,T Natarajan,India,SRH,T20I,L,seam,125–135,Yorker specialist|Angle|Death overs,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+s_sreesanth,S Sreesanth,India,,ODI|T20I|Test,R,seam,135–145,Outswing|Temperamental bounce,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+rp_singh,RP Singh,India,,ODI|T20I,L,seam,125–135,New-ball swing|Angle across RHB,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+praveen_kumar,Praveen Kumar,India,,ODI|T20I,R,seam,120–130,Prodigious swing|Full length|Control,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+navdeep_saini,Navdeep Saini,India,RCB,ODI|T20I,R,seam,140–150,Hit the deck|Skid|Back of length,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+wasim_akram,Wasim Akram,Pakistan,,ODI|Test,L,seam,135–145,Swing both ways|Reverse|Deadly yorker,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+waqar_younis,Waqar Younis,Pakistan,,ODI|Test,R,seam,140–150,Inswinging yorker|Old-ball reverse|Skiddy,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+imran_khan,Imran Khan,Pakistan,,ODI|Test,R,seam,135–145,Lift from length|Reverse|Leadership spells,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+shoaib_akhtar,Shoaib Akhtar,Pakistan,,ODI|Test,R,pace,150–160,Extreme pace|Bouncer|Reverse,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+abdul_qadir,Abdul Qadir,Pakistan,,ODI|Test,R,legspin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+saqlain_mushtaq,Saqlain Mushtaq,Pakistan,,ODI|Test,R,offspin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+saeed_ajmal,Saeed Ajmal,Pakistan,,ODI|T20I|Test,R,offspin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+umar_gul,Umar Gul,Pakistan,,ODI|T20I|Test,R,seam,135–145,Yorker|Skiddy|T20 expert,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+mohammad_amir,Mohammad Amir,Pakistan,,ODI|T20I|Test,L,seam,135–145,Late swing|New-ball threat,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+shaheen_afridi,Shaheen Afridi,Pakistan,,ODI|T20I|Test,L,seam,140–150,Swing at pace|Angle|Fuller length,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+haris_rauf,Haris Rauf,Pakistan,,ODI|T20I,R,pace,145–155,Pace|Slower-ball dip|Yorker,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+hasan_ali,Hasan Ali,Pakistan,,ODI|T20I|Test,R,seam,135–145,Hit-the-deck|Cross-seam|Energy,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+mohammad_asif,Mohammad Asif,Pakistan,,ODI|Test,R,seam,130–140,Seam wizardry|4th stump|Late movement,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+mohammad_nawaz,Mohammad Nawaz,Pakistan,,ODI|T20I,L,leftarm-spin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+muttiah_muralitharan,Muttiah Muralitharan,Sri Lanka,CSK,ODI|T20I|Test,R,offspin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+chaminda_vaas,Chaminda Vaas,Sri Lanka,,ODI|Test,L,seam,125–135,New-ball swing|Fuller|Accuracy,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+lasith_malinga,Lasith Malinga,Sri Lanka,MI,ODI|T20I,R,seam,135–145,Slingy yorkers|Slower-ball dip|Bouncer at body,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+rangana_herath,Rangana Herath,Sri Lanka,,ODI|Test,L,leftarm-spin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+nuwan_kulasekara,Nuwan Kulasekara,Sri Lanka,,ODI|T20I,R,seam,125–135,New-ball swing|Knuckleball,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+dushmantha_chameera,Dushmantha Chameera,Sri Lanka,,ODI|T20I|Test,R,seam,140–150,Skiddy pace|Hard length,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+wanindu_hasaranga,Wanindu Hasaranga,Sri Lanka,RCB,ODI|T20I,R,legspin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+dilshan_madushanka,Dilshan Madushanka,Sri Lanka,MI,ODI|T20I|Test,L,seam,135–145,Left-arm swing|Hit the deck,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+shane_warne,Shane Warne,Australia,RR,ODI|Test,R,legspin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+glenn_mcgrath,Glenn McGrath,Australia,,ODI|Test,R,seam,130–140,Metronomic line|Lift from length|Channel,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+dennis_lillee,Dennis Lillee,Australia,,Test,R,seam,140–150,Aggression|Bouncer|Length,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+brett_lee,Brett Lee,Australia,KKR,ODI|Test,R,pace,145–155,Pace|Yorker|Short ball,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+jason_gillespie,Jason Gillespie,Australia,,ODI|Test,R,seam,135–145,Bounce|Channel|Partnership-breaker,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+mitchell_johnson,Mitchell Johnson,Australia,MI,ODI|Test,L,seam,145–155,Hostile pace|Short ball|Reverse,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+josh_hazlewood,Josh Hazlewood,Australia,CSK,ODI|T20I|Test,R,seam,135–145,Top of off|Lift|Subtle movement,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+nathan_lyon,Nathan Lyon,Australia,,Test,R,offspin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+andrew_tye,Andrew Tye,Australia,KXIP,T20I,R,seam,125–135,Knuckle ball|Change-ups|Deception,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+adam_zampa,Adam Zampa,Australia,RR,ODI|T20I,R,legspin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+shane_watson,Shane Watson,Australia,CSK,ODI|T20I|Test,R,seam,130–140,Heavy length|Cutters|Smart fields,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+james_anderson,James Anderson,England,,ODI|Test,R,seam,130–140,Late swing|4th stump|Seam bowling master,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+stuart_broad,Stuart Broad,England,,ODI|Test,R,seam,130–140,Lift from length|Around the wicket|Bouncer,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+darren_gough,Darren Gough,England,,ODI|Test,R,seam,135–145,Reverse|Yorker|Skiddy,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+andrew_flintoff,Andrew Flintoff,England,,ODI|Test,R,seam,135–145,Heavy ball|Lift|Control,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+jofra_archer,Jofra Archer,England,MI,ODI|T20I|Test,R,pace,145–155,Pace & bounce|Bouncer|Yorker,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+mark_wood,Mark Wood,England,LSG,ODI|T20I|Test,R,pace,150–155,Extreme pace|Bouncer|Hard length,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+graeme_swann,Graeme Swann,England,,ODI|T20I|Test,R,offspin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+adil_rashid,Adil Rashid,England,,ODI|T20I|Test,R,legspin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+dale_steyn,Dale Steyn,South Africa,SRH,ODI|T20I|Test,R,seam,145–155,Late outswing|Pace|Control,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+shaun_pollock,Shaun Pollock,South Africa,MI,ODI|Test,R,seam,125–135,Metronome|Outswing|Top of off,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+allan_donald,Allan Donald,South Africa,,ODI|Test,R,seam,140–150,Pace|Bouncer|Channel,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+makhaya_ntini,Makhaya Ntini,South Africa,,ODI|Test,R,seam,135–145,Hit-the-deck|Relentless,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+morne_morkel,Morne Morkel,South Africa,KKR,ODI|T20I|Test,R,seam,140–150,Bounce|Hard length|Cross-seam,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+lungi_ngidi,Lungi Ngidi,South Africa,CSK,ODI|T20I|Test,R,seam,135–145,Heavy length|Cutters|New-ball,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+imran_tahir,Imran Tahir,South Africa,CSK,ODI|T20I,R,legspin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+keshav_maharaj,Keshav Maharaj,South Africa,,ODI|T20I|Test,L,leftarm-spin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+tabraiz_shamsi,Tabraiz Shamsi,South Africa,RR,ODI|T20I,L,legspin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+marco_jansen,Marco Jansen,South Africa,SRH,ODI|T20I|Test,L,seam,135–145,Bounce|Angle|Back-of-length,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+richard_hadlee,Richard Hadlee,New Zealand,,ODI|Test,R,seam,130–140,Outswing|Cutters|Control,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+tim_southee,Tim Southee,New Zealand,KKR,ODI|T20I|Test,R,seam,130–140,New-ball swing|Knuckle|Leadership,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+daniel_vettori,Daniel Vettori,New Zealand,RCB,ODI|T20I|Test,L,leftarm-spin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+shane_bond,Shane Bond,New Zealand,MI,ODI|Test,R,pace,145–155,Pace|Bouncer|Yorker,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+kyle_mills,Kyle Mills,New Zealand,,ODI,R,seam,130–140,New ball|Cross-seam|Channel,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+matt_henry,Matt Henry,New Zealand,CSK,ODI|Test,R,seam,135–145,Hit the deck|Channel|Burst spell,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+lockie_ferguson,Lockie Ferguson,New Zealand,KKR,ODI|T20I,R,pace,150–155,Extreme pace|Hard length|Bouncer,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+ish_sodhi,Ish Sodhi,New Zealand,RR,ODI|T20I,R,legspin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+courtney_walsh,Courtney Walsh,West Indies,,ODI|Test,R,seam,135–145,Lift|Channel|Partnership breaker,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+curtly_ambrose,Curtly Ambrose,West Indies,,ODI|Test,R,seam,135–145,Bounce|Channel|Relentless,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+malcolm_marshall,Malcolm Marshall,West Indies,,ODI|Test,R,seam,140–150,Hit the deck|Skiddy pace|Craft,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+joel_garner,Joel Garner,West Indies,,ODI|Test,R,seam,130–140,Bounce|Yorker|Fuller late,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+michael_holding,Michael Holding,West Indies,,ODI|Test,R,seam,140–150,Smooth pace|Bouncer|Length,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+kemar_roach,Kemar Roach,West Indies,,ODI|Test,R,seam,135–145,Channel|Nip-backer|Skiddy,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+jason_holder,Jason Holder,West Indies,SRH,ODI|T20I|Test,R,seam,130–140,Lift|Cross-seam|Change-ups,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+dwayne_bravo,Dwayne Bravo,West Indies,CSK,ODI|T20I|Test,R,seam,125–135,Slower-ball master|Death plans|Yorker,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+ravi_rampaul,Ravi Rampaul,West Indies,RCB,ODI|T20I,R,seam,130–140,Back-of-length|Angle|Control,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+alzarri_joseph,Alzarri Joseph,West Indies,GT,ODI|T20I|Test,R,seam,140–150,Hit the deck|Bounce|Cross-seam,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+obed_mccoy,Obed McCoy,West Indies,RR,T20I,L,seam,130–140,Cutters|Angle|Death overs,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+fidel_edwards,Fidel Edwards,West Indies,,ODI|Test,R,pace,145–155,Slingy pace|Bouncer|Yorker,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+shakib_al_hasan,Shakib Al Hasan,Bangladesh,KKR,ODI|T20I|Test,L,leftarm-spin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+mashrafe_mortaza,Mashrafe Mortaza,Bangladesh,,ODI,R,seam,125–135,Leadership|Hard length|Cross-seam,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+taskin_ahmed,Taskin Ahmed,Bangladesh,,ODI|T20I|Test,R,seam,140–150,Hit the deck|Pace|Bounce,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+mehidy_hasan_miraz,Mehidy Hasan Miraz,Bangladesh,,ODI|T20I|Test,R,offspin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+shoriful_islam,Shoriful Islam,Bangladesh,,ODI|T20I|Test,L,seam,135–145,Left-arm angle|Back-of-length|Swing,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+mujeeb_ur_rahman,Mujeeb Ur Rahman,Afghanistan,PBKS,ODI|T20I,R,mystery,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+fazalhaq_farooqi,Fazalhaq Farooqi,Afghanistan,SRH,ODI|T20I,L,seam,130–140,In-swing PP|Angle|Fuller,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+heath_streak,Heath Streak,Zimbabwe,,ODI|Test,R,seam,130–140,Channel|Cutters|Leadership,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+blessing_muzarabani,Blessing Muzarabani,Zimbabwe,,ODI|T20I|Test,R,seam,135–145,Bounce|Hard length|Cross-seam,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+tendai_chatara,Tendai Chatara,Zimbabwe,,ODI|T20I|Test,R,seam,130–140,Outswing|Angle|Back-of-length,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+kyle_jarvis,Kyle Jarvis,Zimbabwe,,ODI|Test,R,seam,130–140,Channel|Control|Seam up,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+prosper_utseya,Prosper Utseya,Zimbabwe,,ODI|T20I,R,offspin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+boyd_rankin,Boyd Rankin,Ireland,,ODI|T20I|Test,R,seam,135–145,Bounce|Hard length|Angle,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+josh_little,Josh Little,Ireland,GT,ODI|T20I,L,seam,135–145,Hit the deck|Angle|Death,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+andy_mcbrine,Andy McBrine,Ireland,,ODI|T20I,R,offspin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+mark_adair,Mark Adair,Ireland,,ODI|T20I,R,seam,135–145,Skiddy|Hard length|Cutters,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+logan_van_beek,Logan van Beek,Netherlands,RR,ODI|T20I,R,seam,130–140,Cross-seam|Cutters|Clutch overs,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+paul_van_meekeren,Paul van Meekeren,Netherlands,,ODI|T20I,R,seam,130–140,Hard length|Angle|Back of length,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+fred_klaassen,Fred Klaassen,Netherlands,,ODI|T20I,L,seam,125–135,Left-arm angle|Swing|Control,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+timm_van_der_gugten,Timm van der Gugten,Netherlands,,ODI|T20I,R,seam,130–140,Channel|Hit the deck|Control,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+josh_davey,Josh Davey,Scotland,,ODI|T20I,R,seam,125–135,Line & length|Cross-seam|Discipline,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+mark_watt,Mark Watt,Scotland,,ODI|T20I,L,leftarm-spin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+sandeep_lamichhane,Sandeep Lamichhane,Nepal,DC,T20I,R,legspin,—,Drift & dip|Deceive in flight|Change pace,"PP: tidy, attack stumps; Middle: vary pace/shape to edges; Death: wide line to big boundary"
+ruben_trumpelmann,Ruben Trumpelmann,Namibia,,ODI|T20I,L,seam,130–140,Left-arm angle|Swing|Back of length,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+david_wiese,David Wiese,Namibia,,ODI|T20I,R,seam,130–140,Cutters|Change-ups|Hard length,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
+zahoor_khan,Zahoor Khan,UAE,,ODI|T20I,R,seam,125–135,Back-of-length|Angle|Change-ups,PP: 4th-stump seam; Middle: hard length & cutters; Death: yorker/wide yorker & slower ball
