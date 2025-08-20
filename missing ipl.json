@@ -1205,6 +1205,204 @@
     "pace_spin": "Medium pace (swing)",
     "ball_speed_kph": "120–130",
     "ipl_team": "Kolkata Knight Riders"
-  }
+  },
+  {
+    "id": "james_anderson",
+    "name": "James Anderson",
+    "country": "England",
+    "formats_active": ["Test"],
+    "arm": "Right",
+    "bowling_type": "Swing",
+    "pace_spin": "Fast-medium (late swing)",
+    "ball_speed_kph": "130–138",
+    "ipl_team": ""
+  },
+  {
+    "id": "stuart_broad",
+    "name": "Stuart Broad",
+    "country": "England",
+    "formats_active": ["Test"],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast-medium (seam & bounce)",
+    "ball_speed_kph": "130–138",
+    "ipl_team": ""
+  },
+  {
+    "id": "jofra_archer",
+    "name": "Jofra Archer",
+    "country": "England",
+    "formats_active": ["ODI", "Test"],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast",
+    "ball_speed_kph": "145–153",
+    "ipl_team": "Mumbai Indians"
+  },
+  {
+    "id": "mark_wood",
+    "name": "Mark Wood",
+    "country": "England",
+    "formats_active": ["ODI", "Test"],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Express Fast",
+    "ball_speed_kph": "148–155",
+    "ipl_team": "Lucknow Super Giants"
+  },
+  {
+    "id": "chris_woakes",
+    "name": "Chris Woakes",
+    "country": "England",
+    "formats_active": ["ODI", "Test"],
+    "arm": "Right",
+    "bowling_type": "Swing",
+    "pace_spin": "Fast-medium",
+    "ball_speed_kph": "132–138",
+    "ipl_team": ""
+  },
+  {
+    "id": "ollie_robinson",
+    "name": "Ollie Robinson",
+    "country": "England",
+    "formats_active": ["Test"],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Medium-fast",
+    "ball_speed_kph": "130–136",
+    "ipl_team": ""
+  },
+  {
+    "id": "sam_curran",
+    "name": "Sam Curran",
+    "country": "England",
+    "formats_active": ["ODI", "Test"],
+    "arm": "Left",
+    "bowling_type": "Swing",
+    "pace_spin": "Left-arm Medium-fast",
+    "ball_speed_kph": "130–136",
+    "ipl_team": "Chennai Super Kings"
+  },
+  {
+    "id": "reece_topley",
+    "name": "Reece Topley",
+    "country": "England",
+    "formats_active": ["ODI"],
+    "arm": "Left",
+    "bowling_type": "Swing",
+    "pace_spin": "Left-arm Fast-medium",
+    "ball_speed_kph": "130–138",
+    "ipl_team": "RCB"
+  },
+  {
+    "id": "david_willey",
+    "name": "David Willey",
+    "country": "England",
+    "formats_active": ["ODI"],
+    "arm": "Left",
+    "bowling_type": "Swing",
+    "pace_spin": "Left-arm Medium-fast",
+    "ball_speed_kph": "130–136",
+    "ipl_team": ""
+  },
+  {
+    "id": "brydon_carse",
+    "name": "Brydon Carse",
+    "country": "England",
+    "formats_active": ["ODI", "Test"],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast",
+    "ball_speed_kph": "140–145",
+    "ipl_team": ""
+  },
+  {
+    "id": "gus_atkinson",
+    "name": "Gus Atkinson",
+    "country": "England",
+    "formats_active": ["ODI", "Test"],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast",
+    "ball_speed_kph": "140–148",
+    "ipl_team": ""
+  },
+  {
+    "id": "saqib_mahmood",
+    "name": "Saqib Mahmood",
+    "country": "England",
+    "formats_active": ["ODI", "Test"],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast-medium",
+    "ball_speed_kph": "135–142",
+    "ipl_team": ""
+  },
+  {
+    "id": "matthew_potts",
+    "name": "Matthew Potts",
+    "country": "England",
+    "formats_active": ["Test"],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Medium-fast",
+    "ball_speed_kph": "132–138",
+    "ipl_team": ""
+  },
+  {
+    "id": "george_scrimshaw",
+    "name": "George Scrimshaw",
+    "country": "England",
+    "formats_active": ["ODI"],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast-medium",
+    "ball_speed_kph": "135–140",
+    "ipl_team": ""
+  },
+  {
+    "id": "adil_rashid",
+    "name": "Adil Rashid",
+    "country": "England",
+    "formats_active": ["ODI"],
+    "arm": "Right",
+    "bowling_type": "Leg-spin",
+    "pace_spin": "Legbreak Googly",
+    "ball_speed_kph": null,
+    "ipl_team": ""
+  },
+  {
+    "id": "moeen_ali",
+    "name": "Moeen Ali",
+    "country": "England",
+    "formats_active": ["ODI", "Test"],
+    "arm": "Right",
+    "bowling_type": "Off-spin",
+    "pace_spin": "Finger spin",
+    "ball_speed_kph": null,
+    "ipl_team": "Chennai Super Kings"
+  },
+  {
+    "id": "jack_leach",
+    "name": "Jack Leach",
+    "country": "England",
+    "formats_active": ["Test"],
+    "arm": "Left",
+    "bowling_type": "Off-spin",
+    "pace_spin": "Left-arm Orthodox",
+    "ball_speed_kph": null,
+    "ipl_team": ""
+  },
+  {
+    "id": "rehan_ahmed",
+    "name": "Rehan Ahmed",
+    "country": "England",
+    "formats_active": ["ODI", "Test"],
+    "arm": "Right",
+    "bowling_type": "Leg-spin",
+    "pace_spin": "Legbreak Googly",
+    "ball_speed_kph": null,
+    "ipl_team": ""
+  },
  
 ]
