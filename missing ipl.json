@@ -1207,6 +1207,20 @@
     "ipl_team": "Kolkata Knight Riders"
   },
   {
+    "id": "ajit_agarkar",
+    "name": "Ajit Agarkar",
+    "country": "India",
+    "formats_active": [
+      "ODI",
+      "Test"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast-medium",
+    "ball_speed_kph": "132–138",
+    "ipl_team": "Kolkata Knight Riders"
+  },
+  {
     "id": "james_anderson",
     "name": "James Anderson",
     "country": "England",
