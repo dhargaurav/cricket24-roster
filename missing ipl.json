@@ -1177,5 +1177,34 @@
     "pace_spin": "Fast",
     "ball_speed_kph": "142–150",
     "ipl_team": "RCB"
-  }
+  },
+  {
+  "id": "zaheer_khan",
+  "name": "Zaheer Khan",
+  "country": "India",
+  "formats_active": [
+    "Test",
+    "ODI"
+  ],
+  "arm": "Left",
+  "bowling_type": "Seam",
+  "pace_spin": "Left-arm Fast-medium (swing & reverse swing)",
+  "ball_speed_kph": "135–145",
+  "ipl_team": "Mumbai Indians"
+},
+{
+  "id": "sourav_ganguly",
+  "name": "Sourav Ganguly",
+  "country": "India",
+  "formats_active": [
+    "ODI",
+    "Test"
+  ],
+  "arm": "Left",
+  "bowling_type": "Seam",
+  "pace_spin": "Medium pace (swing)",
+  "ball_speed_kph": "120–130",
+  "ipl_team": "Kolkata Knight Riders"
+}
+
 ]
