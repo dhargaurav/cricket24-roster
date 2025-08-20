@@ -1,0 +1,1086 @@
+[
+  {
+    "id": "mohammed_shami",
+    "name": "Mohammed Shami",
+    "country": "India",
+    "formats_active": [
+      "Test",
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast (reverse swing)",
+    "ball_speed_kph": "140–145",
+    "ipl_team": ""
+  },
+  {
+    "id": "prasidh_krishna",
+    "name": "Prasidh Krishna",
+    "country": "India",
+    "formats_active": [
+      "ODI",
+      "Test"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast",
+    "ball_speed_kph": "138–145",
+    "ipl_team": ""
+  },
+  {
+    "id": "deepak_chahar",
+    "name": "Deepak Chahar",
+    "country": "India",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Swing",
+    "pace_spin": "Medium-fast",
+    "ball_speed_kph": "130–138",
+    "ipl_team": "Chennai Super Kings"
+  },
+  {
+    "id": "maheesh_theekshana",
+    "name": "Maheesh Theekshana",
+    "country": "Sri Lanka",
+    "formats_active": [
+      "ODI",
+      "Test"
+    ],
+    "arm": "Right",
+    "bowling_type": "Off-spin",
+    "pace_spin": "Mystery off-spin",
+    "ball_speed_kph": null,
+    "ipl_team": "Chennai Super Kings"
+  },
+  {
+    "id": "matheesha_pathirana",
+    "name": "Matheesha Pathirana",
+    "country": "Sri Lanka",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast (sling)",
+    "ball_speed_kph": "140–148",
+    "ipl_team": "Chennai Super Kings"
+  },
+  {
+    "id": "mitchell_santner",
+    "name": "Mitchell Santner",
+    "country": "New Zealand",
+    "formats_active": [
+      "ODI",
+      "Test"
+    ],
+    "arm": "Left",
+    "bowling_type": "Off-spin",
+    "pace_spin": "Left-arm Orthodox",
+    "ball_speed_kph": null,
+    "ipl_team": "Chennai Super Kings"
+  },
+  {
+    "id": "mukesh_choudhary",
+    "name": "Mukesh Choudhary",
+    "country": "India (Domestic)",
+    "formats_active": [
+      "IPL only"
+    ],
+    "arm": "Left",
+    "bowling_type": "Swing",
+    "pace_spin": "Left-arm Medium-fast",
+    "ball_speed_kph": "130–136",
+    "ipl_team": "Chennai Super Kings"
+  },
+  {
+    "id": "mustafizur_rahman",
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Left",
+    "bowling_type": "Seam",
+    "pace_spin": "Left-arm Fast (cutters)",
+    "ball_speed_kph": "132–138",
+    "ipl_team": "Chennai Super Kings"
+  },
+  {
+    "id": "rachin_ravindra",
+    "name": "Rachin Ravindra",
+    "country": "New Zealand",
+    "formats_active": [
+      "ODI",
+      "Test"
+    ],
+    "arm": "Left",
+    "bowling_type": "Off-spin",
+    "pace_spin": "Left-arm Orthodox",
+    "ball_speed_kph": null,
+    "ipl_team": "Chennai Super Kings"
+  },
+  {
+    "id": "ravindra_jadeja",
+    "name": "Ravindra Jadeja",
+    "country": "India",
+    "formats_active": [
+      "Test",
+      "ODI"
+    ],
+    "arm": "Left",
+    "bowling_type": "Off-spin",
+    "pace_spin": "Left-arm Orthodox",
+    "ball_speed_kph": null,
+    "ipl_team": "Chennai Super Kings"
+  },
+  {
+    "id": "shardul_thakur",
+    "name": "Shardul Thakur",
+    "country": "India",
+    "formats_active": [
+      "ODI",
+      "Test"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Medium-fast (variations)",
+    "ball_speed_kph": "132–138",
+    "ipl_team": "Chennai Super Kings"
+  },
+  {
+    "id": "simarjeet_singh",
+    "name": "Simarjeet Singh",
+    "country": "India (Domestic)",
+    "formats_active": [
+      "IPL only"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Medium-fast",
+    "ball_speed_kph": "132–138",
+    "ipl_team": "Chennai Super Kings"
+  },
+  {
+    "id": "tushar_deshpande",
+    "name": "Tushar Deshpande",
+    "country": "India (Domestic)",
+    "formats_active": [
+      "IPL only"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast",
+    "ball_speed_kph": "138–145",
+    "ipl_team": "Chennai Super Kings"
+  },
+  {
+    "id": "anrich_nortje",
+    "name": "Anrich Nortje",
+    "country": "South Africa",
+    "formats_active": [
+      "Test",
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast",
+    "ball_speed_kph": "145–152",
+    "ipl_team": "Delhi Capitals"
+  },
+  {
+    "id": "axar_patel",
+    "name": "Axar Patel",
+    "country": "India",
+    "formats_active": [
+      "Test",
+      "ODI"
+    ],
+    "arm": "Left",
+    "bowling_type": "Off-spin",
+    "pace_spin": "Left-arm Orthodox",
+    "ball_speed_kph": null,
+    "ipl_team": "Delhi Capitals"
+  },
+  {
+    "id": "ishant_sharma",
+    "name": "Ishant Sharma",
+    "country": "India",
+    "formats_active": [
+      "Test"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast-medium",
+    "ball_speed_kph": "132–140",
+    "ipl_team": "Delhi Capitals"
+  },
+  {
+    "id": "khaleel_ahmed",
+    "name": "Khaleel Ahmed",
+    "country": "India",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Left",
+    "bowling_type": "Seam",
+    "pace_spin": "Left-arm Medium-fast",
+    "ball_speed_kph": "132–140",
+    "ipl_team": "Delhi Capitals"
+  },
+  {
+    "id": "kuldeep_yadav",
+    "name": "Kuldeep Yadav",
+    "country": "India",
+    "formats_active": [
+      "Test",
+      "ODI"
+    ],
+    "arm": "Left",
+    "bowling_type": "Leg-spin",
+    "pace_spin": "Left-arm wrist spin (chinaman)",
+    "ball_speed_kph": null,
+    "ipl_team": "Delhi Capitals"
+  },
+  {
+    "id": "mukesh_kumar",
+    "name": "Mukesh Kumar",
+    "country": "India",
+    "formats_active": [
+      "Test",
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Medium-fast",
+    "ball_speed_kph": "130–136",
+    "ipl_team": "Delhi Capitals"
+  },
+  {
+    "id": "praveen_dubey",
+    "name": "Praveen Dubey",
+    "country": "India (Domestic)",
+    "formats_active": [
+      "IPL only"
+    ],
+    "arm": "Right",
+    "bowling_type": "Leg-spin",
+    "pace_spin": "Legbreak",
+    "ball_speed_kph": null,
+    "ipl_team": "Delhi Capitals"
+  },
+  {
+    "id": "vicky_ostwal",
+    "name": "Vicky Ostwal",
+    "country": "India (Domestic)",
+    "formats_active": [
+      "IPL only"
+    ],
+    "arm": "Left",
+    "bowling_type": "Off-spin",
+    "pace_spin": "Left-arm Orthodox",
+    "ball_speed_kph": null,
+    "ipl_team": "Delhi Capitals"
+  },
+  {
+    "id": "joshua_little",
+    "name": "Joshua Little",
+    "country": "Ireland",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Left",
+    "bowling_type": "Seam",
+    "pace_spin": "Left-arm Fast",
+    "ball_speed_kph": "138–145",
+    "ipl_team": "Gujarat Titans"
+  },
+  {
+    "id": "mohit_sharma",
+    "name": "Mohit Sharma",
+    "country": "India",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Medium-fast",
+    "ball_speed_kph": "130–136",
+    "ipl_team": "Gujarat Titans"
+  },
+  {
+    "id": "noor_ahmad",
+    "name": "Noor Ahmad",
+    "country": "Afghanistan",
+    "formats_active": [
+      "ODI",
+      "Test"
+    ],
+    "arm": "Left",
+    "bowling_type": "Leg-spin",
+    "pace_spin": "Left-arm wrist spin (chinaman)",
+    "ball_speed_kph": null,
+    "ipl_team": "Gujarat Titans"
+  },
+  {
+    "id": "r_sai_kishore",
+    "name": "R Sai Kishore",
+    "country": "India (Domestic)",
+    "formats_active": [
+      "IPL only"
+    ],
+    "arm": "Left",
+    "bowling_type": "Off-spin",
+    "pace_spin": "Left-arm Orthodox",
+    "ball_speed_kph": null,
+    "ipl_team": "Gujarat Titans"
+  },
+  {
+    "id": "rashid_khan",
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "formats_active": [
+      "ODI",
+      "Test"
+    ],
+    "arm": "Right",
+    "bowling_type": "Leg-spin",
+    "pace_spin": "Legbreak googly",
+    "ball_speed_kph": null,
+    "ipl_team": "Gujarat Titans"
+  },
+  {
+    "id": "spencer_johnson",
+    "name": "Spencer Johnson",
+    "country": "Australia",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Left",
+    "bowling_type": "Seam",
+    "pace_spin": "Left-arm Fast",
+    "ball_speed_kph": "142–148",
+    "ipl_team": "Gujarat Titans"
+  },
+  {
+    "id": "umesh_yadav",
+    "name": "Umesh Yadav",
+    "country": "India",
+    "formats_active": [
+      "Test",
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast",
+    "ball_speed_kph": "140–145",
+    "ipl_team": "Gujarat Titans"
+  },
+  {
+    "id": "chetan_sakariya",
+    "name": "Chetan Sakariya",
+    "country": "India",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Left",
+    "bowling_type": "Seam",
+    "pace_spin": "Left-arm Medium-fast",
+    "ball_speed_kph": "130–138",
+    "ipl_team": "Kolkata Knight Riders"
+  },
+  {
+    "id": "harshit_rana",
+    "name": "Harshit Rana",
+    "country": "India (Domestic)",
+    "formats_active": [
+      "IPL only"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast-medium",
+    "ball_speed_kph": "135–142",
+    "ipl_team": "Kolkata Knight Riders"
+  },
+  {
+    "id": "mitchell_starc",
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "formats_active": [
+      "Test",
+      "ODI"
+    ],
+    "arm": "Left",
+    "bowling_type": "Seam",
+    "pace_spin": "Left-arm Fast",
+    "ball_speed_kph": "145–150",
+    "ipl_team": "Kolkata Knight Riders"
+  },
+  {
+    "id": "sunil_narine",
+    "name": "Sunil Narine",
+    "country": "West Indies",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Off-spin",
+    "pace_spin": "Mystery spin",
+    "ball_speed_kph": null,
+    "ipl_team": "Kolkata Knight Riders"
+  },
+  {
+    "id": "suyash_sharma",
+    "name": "Suyash Sharma",
+    "country": "India (Domestic)",
+    "formats_active": [
+      "IPL only"
+    ],
+    "arm": "Right",
+    "bowling_type": "Leg-spin",
+    "pace_spin": "Legbreak",
+    "ball_speed_kph": null,
+    "ipl_team": "Kolkata Knight Riders"
+  },
+  {
+    "id": "vaibhav_arora",
+    "name": "Vaibhav Arora",
+    "country": "India (Domestic)",
+    "formats_active": [
+      "IPL only"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Medium-fast",
+    "ball_speed_kph": "132–138",
+    "ipl_team": "Kolkata Knight Riders"
+  },
+  {
+    "id": "varun_chakravarthy",
+    "name": "Varun Chakravarthy",
+    "country": "India",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Leg-spin",
+    "pace_spin": "Mystery leg-spin",
+    "ball_speed_kph": null,
+    "ipl_team": "Kolkata Knight Riders"
+  },
+  {
+    "id": "amit_mishra",
+    "name": "Amit Mishra",
+    "country": "India",
+    "formats_active": [
+      "Test",
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Leg-spin",
+    "pace_spin": "Legbreak",
+    "ball_speed_kph": null,
+    "ipl_team": "Lucknow Super Giants"
+  },
+  {
+    "id": "krunal_pandya",
+    "name": "Krunal Pandya",
+    "country": "India",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Left",
+    "bowling_type": "Off-spin",
+    "pace_spin": "Left-arm Orthodox",
+    "ball_speed_kph": null,
+    "ipl_team": "Lucknow Super Giants"
+  },
+  {
+    "id": "manimaran_siddharth",
+    "name": "M Siddharth",
+    "country": "India (Domestic)",
+    "formats_active": [
+      "IPL only"
+    ],
+    "arm": "Left",
+    "bowling_type": "Off-spin",
+    "pace_spin": "Left-arm Orthodox",
+    "ball_speed_kph": null,
+    "ipl_team": "Lucknow Super Giants"
+  },
+  {
+    "id": "mohsin_khan",
+    "name": "Mohsin Khan",
+    "country": "India (Domestic)",
+    "formats_active": [
+      "IPL only"
+    ],
+    "arm": "Left",
+    "bowling_type": "Seam",
+    "pace_spin": "Left-arm Fast-medium",
+    "ball_speed_kph": "135–142",
+    "ipl_team": "Lucknow Super Giants"
+  },
+  {
+    "id": "naveen_ul_haq",
+    "name": "Naveen-ul-Haq",
+    "country": "Afghanistan",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast-medium (cutters)",
+    "ball_speed_kph": "130–138",
+    "ipl_team": "Lucknow Super Giants"
+  },
+  {
+    "id": "ravi_bishnoi",
+    "name": "Ravi Bishnoi",
+    "country": "India",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Leg-spin",
+    "pace_spin": "Legbreak googly",
+    "ball_speed_kph": null,
+    "ipl_team": "Lucknow Super Giants"
+  },
+  {
+    "id": "shivam_mavi",
+    "name": "Shivam Mavi",
+    "country": "India",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast",
+    "ball_speed_kph": "138–145",
+    "ipl_team": "Lucknow Super Giants"
+  },
+  {
+    "id": "yash_thakur",
+    "name": "Yash Thakur",
+    "country": "India (Domestic)",
+    "formats_active": [
+      "IPL only"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast-medium",
+    "ball_speed_kph": "134–140",
+    "ipl_team": "Lucknow Super Giants"
+  },
+  {
+    "id": "akash_madhwal",
+    "name": "Akash Madhwal",
+    "country": "India (Domestic)",
+    "formats_active": [
+      "IPL only"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast",
+    "ball_speed_kph": "138–145",
+    "ipl_team": "Mumbai Indians"
+  },
+  {
+    "id": "arjun_tendulkar",
+    "name": "Arjun Tendulkar",
+    "country": "India (Domestic)",
+    "formats_active": [
+      "IPL only"
+    ],
+    "arm": "Left",
+    "bowling_type": "Seam",
+    "pace_spin": "Left-arm Medium",
+    "ball_speed_kph": "125–132",
+    "ipl_team": "Mumbai Indians"
+  },
+  {
+    "id": "gerald_coetzee",
+    "name": "Gerald Coetzee",
+    "country": "South Africa",
+    "formats_active": [
+      "Test",
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast",
+    "ball_speed_kph": "142–150",
+    "ipl_team": "Mumbai Indians"
+  },
+  {
+    "id": "jasprit_bumrah",
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "formats_active": [
+      "Test",
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast (140–150)",
+    "ball_speed_kph": "140–150",
+    "ipl_team": "Mumbai Indians"
+  },
+  {
+    "id": "kumar_kartikeya",
+    "name": "Kumar Kartikeya Singh",
+    "country": "India (Domestic)",
+    "formats_active": [
+      "IPL only"
+    ],
+    "arm": "Left",
+    "bowling_type": "Off-spin",
+    "pace_spin": "Left-arm Orthodox",
+    "ball_speed_kph": null,
+    "ipl_team": "Mumbai Indians"
+  },
+  {
+    "id": "luke_wood",
+    "name": "Luke Wood",
+    "country": "England",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Left",
+    "bowling_type": "Seam",
+    "pace_spin": "Left-arm Fast-medium",
+    "ball_speed_kph": "134–140",
+    "ipl_team": "Mumbai Indians"
+  },
+  {
+    "id": "mohammad_nabi",
+    "name": "Mohammad Nabi",
+    "country": "Afghanistan",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Off-spin",
+    "pace_spin": "Finger spin",
+    "ball_speed_kph": null,
+    "ipl_team": "Mumbai Indians"
+  },
+  {
+    "id": "nuwan_thushara",
+    "name": "Nuwan Thushara",
+    "country": "Sri Lanka",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast (sling)",
+    "ball_speed_kph": "138–145",
+    "ipl_team": "Mumbai Indians"
+  },
+  {
+    "id": "piyush_chawla",
+    "name": "Piyush Chawla",
+    "country": "India",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Leg-spin",
+    "pace_spin": "Legbreak googly",
+    "ball_speed_kph": null,
+    "ipl_team": "Mumbai Indians"
+  },
+  {
+    "id": "arshdeep_singh",
+    "name": "Arshdeep Singh",
+    "country": "India",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Left",
+    "bowling_type": "Seam",
+    "pace_spin": "Left-arm Fast-medium",
+    "ball_speed_kph": "134–142",
+    "ipl_team": "Punjab Kings"
+  },
+  {
+    "id": "harpreet_brar",
+    "name": "Harpreet Brar",
+    "country": "India",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Left",
+    "bowling_type": "Off-spin",
+    "pace_spin": "Left-arm Orthodox",
+    "ball_speed_kph": null,
+    "ipl_team": "Punjab Kings"
+  },
+  {
+    "id": "harshal_patel",
+    "name": "Harshal Patel",
+    "country": "India",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Medium-fast (cutters)",
+    "ball_speed_kph": "128–135",
+    "ipl_team": "Punjab Kings"
+  },
+  {
+    "id": "kagiso_rabada",
+    "name": "Kagiso Rabada",
+    "country": "South Africa",
+    "formats_active": [
+      "Test",
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast",
+    "ball_speed_kph": "142–150",
+    "ipl_team": "Punjab Kings"
+  },
+  {
+    "id": "nathan_ellis",
+    "name": "Nathan Ellis",
+    "country": "Australia",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast-medium",
+    "ball_speed_kph": "134–140",
+    "ipl_team": "Punjab Kings"
+  },
+  {
+    "id": "rahul_chahar",
+    "name": "Rahul Chahar",
+    "country": "India",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Leg-spin",
+    "pace_spin": "Legbreak",
+    "ball_speed_kph": null,
+    "ipl_team": "Punjab Kings"
+  },
+  {
+    "id": "sam_curran",
+    "name": "Sam Curran",
+    "country": "England",
+    "formats_active": [
+      "ODI",
+      "Test"
+    ],
+    "arm": "Left",
+    "bowling_type": "Seam",
+    "pace_spin": "Left-arm Medium-fast",
+    "ball_speed_kph": "132–138",
+    "ipl_team": "Punjab Kings"
+  },
+  {
+    "id": "sikandar_raza",
+    "name": "Sikandar Raza",
+    "country": "Zimbabwe",
+    "formats_active": [
+      "ODI",
+      "Test"
+    ],
+    "arm": "Right",
+    "bowling_type": "Off-spin",
+    "pace_spin": "Finger spin",
+    "ball_speed_kph": null,
+    "ipl_team": "Punjab Kings"
+  },
+  {
+    "id": "avesh_khan",
+    "name": "Avesh Khan",
+    "country": "India",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast-medium",
+    "ball_speed_kph": "138–145",
+    "ipl_team": "Rajasthan Royals"
+  },
+  {
+    "id": "nandre_burger",
+    "name": "Nandre Burger",
+    "country": "South Africa",
+    "formats_active": [
+      "Test",
+      "ODI"
+    ],
+    "arm": "Left",
+    "bowling_type": "Seam",
+    "pace_spin": "Left-arm Fast",
+    "ball_speed_kph": "145–150",
+    "ipl_team": "Rajasthan Royals"
+  },
+  {
+    "id": "ravichandran_ashwin",
+    "name": "Ravichandran Ashwin",
+    "country": "India",
+    "formats_active": [
+      "Test"
+    ],
+    "arm": "Right",
+    "bowling_type": "Off-spin",
+    "pace_spin": "Finger spin",
+    "ball_speed_kph": null,
+    "ipl_team": "Rajasthan Royals"
+  },
+  {
+    "id": "sandeep_sharma",
+    "name": "Sandeep Sharma",
+    "country": "India (Domestic)",
+    "formats_active": [
+      "IPL only"
+    ],
+    "arm": "Right",
+    "bowling_type": "Swing",
+    "pace_spin": "Medium-fast",
+    "ball_speed_kph": "128–134",
+    "ipl_team": "Rajasthan Royals"
+  },
+  {
+    "id": "trent_boult",
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "formats_active": [
+      "ODI",
+      "Test"
+    ],
+    "arm": "Left",
+    "bowling_type": "Swing",
+    "pace_spin": "Left-arm Fast-medium",
+    "ball_speed_kph": "135–143",
+    "ipl_team": "Rajasthan Royals"
+  },
+  {
+    "id": "yuzvendra_chahal",
+    "name": "Yuzvendra Chahal",
+    "country": "India",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Leg-spin",
+    "pace_spin": "Legbreak googly",
+    "ball_speed_kph": null,
+    "ipl_team": "Rajasthan Royals"
+  },
+  {
+    "id": "karn_sharma",
+    "name": "Karn Sharma",
+    "country": "India",
+    "formats_active": [
+      "ODI",
+      "Test"
+    ],
+    "arm": "Right",
+    "bowling_type": "Leg-spin",
+    "pace_spin": "Legbreak",
+    "ball_speed_kph": null,
+    "ipl_team": "Royal Challengers Bengaluru"
+  },
+  {
+    "id": "lockie_ferguson",
+    "name": "Lockie Ferguson",
+    "country": "New Zealand",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast",
+    "ball_speed_kph": "145–155",
+    "ipl_team": "Royal Challengers Bengaluru"
+  },
+  {
+    "id": "mohammed_siraj",
+    "name": "Mohammed Siraj",
+    "country": "India",
+    "formats_active": [
+      "Test",
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast",
+    "ball_speed_kph": "138–146",
+    "ipl_team": "Royal Challengers Bengaluru"
+  },
+  {
+    "id": "reece_topley",
+    "name": "Reece Topley",
+    "country": "England",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Left",
+    "bowling_type": "Seam",
+    "pace_spin": "Left-arm Fast-medium",
+    "ball_speed_kph": "134–140",
+    "ipl_team": "Royal Challengers Bengaluru"
+  },
+  {
+    "id": "vijaykumar_vyshak",
+    "name": "Vijaykumar Vyshak",
+    "country": "India (Domestic)",
+    "formats_active": [
+      "IPL only"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Medium-fast",
+    "ball_speed_kph": "132–138",
+    "ipl_team": "Royal Challengers Bengaluru"
+  },
+  {
+    "id": "yash_dayal",
+    "name": "Yash Dayal",
+    "country": "India (Domestic)",
+    "formats_active": [
+      "IPL only"
+    ],
+    "arm": "Left",
+    "bowling_type": "Seam",
+    "pace_spin": "Left-arm Medium-fast",
+    "ball_speed_kph": "130–138",
+    "ipl_team": "Royal Challengers Bengaluru"
+  },
+  {
+    "id": "bhuvneshwar_kumar",
+    "name": "Bhuvneshwar Kumar",
+    "country": "India",
+    "formats_active": [
+      "ODI",
+      "Test"
+    ],
+    "arm": "Right",
+    "bowling_type": "Swing",
+    "pace_spin": "Medium-fast",
+    "ball_speed_kph": "130–136",
+    "ipl_team": "Sunrisers Hyderabad"
+  },
+  {
+    "id": "jaydev_unadkat",
+    "name": "Jaydev Unadkat",
+    "country": "India",
+    "formats_active": [
+      "ODI",
+      "Test"
+    ],
+    "arm": "Left",
+    "bowling_type": "Seam",
+    "pace_spin": "Left-arm Medium-fast",
+    "ball_speed_kph": "128–134",
+    "ipl_team": "Sunrisers Hyderabad"
+  },
+  {
+    "id": "marco_jansen",
+    "name": "Marco Jansen",
+    "country": "South Africa",
+    "formats_active": [
+      "ODI",
+      "Test"
+    ],
+    "arm": "Left",
+    "bowling_type": "Seam",
+    "pace_spin": "Left-arm Fast-medium",
+    "ball_speed_kph": "138–146",
+    "ipl_team": "Sunrisers Hyderabad"
+  },
+  {
+    "id": "mayank_markande",
+    "name": "Mayank Markande",
+    "country": "India",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Leg-spin",
+    "pace_spin": "Legbreak",
+    "ball_speed_kph": null,
+    "ipl_team": "Sunrisers Hyderabad"
+  },
+  {
+    "id": "pat_cummins",
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "formats_active": [
+      "Test",
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast",
+    "ball_speed_kph": "142–148",
+    "ipl_team": "Sunrisers Hyderabad"
+  },
+  {
+    "id": "shahbaz_ahmed",
+    "name": "Shahbaz Ahmed",
+    "country": "India",
+    "formats_active": [
+      "ODI",
+      "Test"
+    ],
+    "arm": "Left",
+    "bowling_type": "Off-spin",
+    "pace_spin": "Left-arm Orthodox",
+    "ball_speed_kph": null,
+    "ipl_team": "Sunrisers Hyderabad"
+  },
+  {
+    "id": "t_natarajan",
+    "name": "T. Natarajan",
+    "country": "India",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Left",
+    "bowling_type": "Seam",
+    "pace_spin": "Left-arm Medium-fast (yorkers)",
+    "ball_speed_kph": "130–137",
+    "ipl_team": "Sunrisers Hyderabad"
+  },
+  {
+    "id": "umran_malik",
+    "name": "Umran Malik",
+    "country": "India",
+    "formats_active": [
+      "ODI"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Fast (150k+)",
+    "ball_speed_kph": "150–157",
+    "ipl_team": "Sunrisers Hyderabad"
+  },
+  {
+    "id": "washington_sundar",
+    "name": "Washington Sundar",
+    "country": "India",
+    "formats_active": [
+      "ODI",
+      "Test"
+    ],
+    "arm": "Right",
+    "bowling_type": "Off-spin",
+    "pace_spin": "Finger spin",
+    "ball_speed_kph": null,
+    "ipl_team": "Sunrisers Hyderabad"
+  }
+]
