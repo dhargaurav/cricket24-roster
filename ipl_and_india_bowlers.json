@@ -892,7 +892,7 @@
     "bowling_type": "Leg-spin",
     "pace_spin": "Legbreak",
     "ball_speed_kph": null,
-    "ipl_team": "Royal Challengers Bengaluru"
+    "ipl_team": "RCB"
   },
   {
     "id": "lockie_ferguson",
@@ -905,7 +905,7 @@
     "bowling_type": "Seam",
     "pace_spin": "Fast",
     "ball_speed_kph": "145–155",
-    "ipl_team": "Royal Challengers Bengaluru"
+    "ipl_team": "RCB"
   },
   {
     "id": "mohammed_siraj",
@@ -919,7 +919,7 @@
     "bowling_type": "Seam",
     "pace_spin": "Fast",
     "ball_speed_kph": "138–146",
-    "ipl_team": "Royal Challengers Bengaluru"
+    "ipl_team": "RCB"
   },
   {
     "id": "reece_topley",
@@ -932,7 +932,7 @@
     "bowling_type": "Seam",
     "pace_spin": "Left-arm Fast-medium",
     "ball_speed_kph": "134–140",
-    "ipl_team": "Royal Challengers Bengaluru"
+    "ipl_team": "RCB"
   },
   {
     "id": "vijaykumar_vyshak",
@@ -945,7 +945,7 @@
     "bowling_type": "Seam",
     "pace_spin": "Medium-fast",
     "ball_speed_kph": "132–138",
-    "ipl_team": "Royal Challengers Bengaluru"
+    "ipl_team": "RCB"
   },
   {
     "id": "yash_dayal",
@@ -958,7 +958,7 @@
     "bowling_type": "Seam",
     "pace_spin": "Left-arm Medium-fast",
     "ball_speed_kph": "130–138",
-    "ipl_team": "Royal Challengers Bengaluru"
+    "ipl_team": "RCB"
   },
   {
     "id": "bhuvneshwar_kumar",
