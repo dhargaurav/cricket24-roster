@@ -1300,17 +1300,6 @@
     "ipl_team": "Chennai Super Kings"
   },
   {
-    "id": "reece_topley",
-    "name": "Reece Topley",
-    "country": "England",
-    "formats_active": ["ODI"],
-    "arm": "Left",
-    "bowling_type": "Swing",
-    "pace_spin": "Left-arm Fast-medium",
-    "ball_speed_kph": "130–138",
-    "ipl_team": "RCB"
-  },
-  {
     "id": "david_willey",
     "name": "David Willey",
     "country": "England",
