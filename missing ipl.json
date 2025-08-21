@@ -1224,7 +1224,9 @@
     "id": "james_anderson",
     "name": "James Anderson",
     "country": "England",
-    "formats_active": ["Test"],
+    "formats_active": [
+      "Test"
+    ],
     "arm": "Right",
     "bowling_type": "Swing",
     "pace_spin": "Fast-medium (late swing)",
