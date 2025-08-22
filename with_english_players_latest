@@ -1475,7 +1475,7 @@
     "bowling_type": "Seam",
     "pace_spin": "Medium-fast",
     "ball_speed_kph": "130–140",
-    "ipl_team": "Lucknow Super Giants"
+    "ipl_team": "Punjab Kings"
   },
   {
     "id": "aaron_hardie",
@@ -1489,6 +1489,6 @@
     "bowling_type": "Seam",
     "pace_spin": "Medium-fast",
     "ball_speed_kph": "125–135",
-    "ipl_team": ""
+    "ipl_team": "Punjab Kings"
   }
 ]
