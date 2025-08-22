@@ -1462,5 +1462,33 @@
     "pace_spin": "Legbreak Googly",
     "ball_speed_kph": null,
     "ipl_team": ""
+  },
+  {
+    "id": "marcus_stoinis",
+    "name": "Marcus Stoinis",
+    "country": "Australia",
+    "formats_active": [
+      "ODI",
+      "T20I"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Medium-fast",
+    "ball_speed_kph": "130–140",
+    "ipl_team": "Lucknow Super Giants"
+  },
+  {
+    "id": "aaron_hardie",
+    "name": "Aaron Hardie",
+    "country": "Australia",
+    "formats_active": [
+      "ODI",
+      "T20I"
+    ],
+    "arm": "Right",
+    "bowling_type": "Seam",
+    "pace_spin": "Medium-fast",
+    "ball_speed_kph": "125–135",
+    "ipl_team": ""
   }
 ]
